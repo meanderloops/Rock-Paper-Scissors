@@ -1,4 +1,8 @@
 # Rock Paper Scissors
-A simple game meant to be played through a CLI. Features multiple opponent types, which are chosen at random.
+**Version 1.0.0**
 
-Made during the Intro To Programming course through Udacity.
+A simple CLI game, featuring multiple opponent types that are chosen at random.
+
+---
+
+Created while completing the Python II course from Udacity.
